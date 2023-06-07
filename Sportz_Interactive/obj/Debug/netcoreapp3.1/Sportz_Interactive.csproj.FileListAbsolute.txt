@@ -1,0 +1,14 @@
+C:\Ayaz Practice\Sportz Interactive\Sportz_Interactive\Sportz_Interactive\bin\Debug\netcoreapp3.1\Sportz_Interactive.exe
+C:\Ayaz Practice\Sportz Interactive\Sportz_Interactive\Sportz_Interactive\bin\Debug\netcoreapp3.1\Sportz_Interactive.deps.json
+C:\Ayaz Practice\Sportz Interactive\Sportz_Interactive\Sportz_Interactive\bin\Debug\netcoreapp3.1\Sportz_Interactive.runtimeconfig.json
+C:\Ayaz Practice\Sportz Interactive\Sportz_Interactive\Sportz_Interactive\bin\Debug\netcoreapp3.1\Sportz_Interactive.runtimeconfig.dev.json
+C:\Ayaz Practice\Sportz Interactive\Sportz_Interactive\Sportz_Interactive\bin\Debug\netcoreapp3.1\Sportz_Interactive.dll
+C:\Ayaz Practice\Sportz Interactive\Sportz_Interactive\Sportz_Interactive\bin\Debug\netcoreapp3.1\Sportz_Interactive.pdb
+C:\Ayaz Practice\Sportz Interactive\Sportz_Interactive\Sportz_Interactive\obj\Debug\netcoreapp3.1\Sportz_Interactive.csproj.AssemblyReference.cache
+C:\Ayaz Practice\Sportz Interactive\Sportz_Interactive\Sportz_Interactive\obj\Debug\netcoreapp3.1\Sportz_Interactive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ayaz Practice\Sportz Interactive\Sportz_Interactive\Sportz_Interactive\obj\Debug\netcoreapp3.1\Sportz_Interactive.AssemblyInfoInputs.cache
+C:\Ayaz Practice\Sportz Interactive\Sportz_Interactive\Sportz_Interactive\obj\Debug\netcoreapp3.1\Sportz_Interactive.AssemblyInfo.cs
+C:\Ayaz Practice\Sportz Interactive\Sportz_Interactive\Sportz_Interactive\obj\Debug\netcoreapp3.1\Sportz_Interactive.csproj.CoreCompileInputs.cache
+C:\Ayaz Practice\Sportz Interactive\Sportz_Interactive\Sportz_Interactive\obj\Debug\netcoreapp3.1\Sportz_Interactive.dll
+C:\Ayaz Practice\Sportz Interactive\Sportz_Interactive\Sportz_Interactive\obj\Debug\netcoreapp3.1\Sportz_Interactive.pdb
+C:\Ayaz Practice\Sportz Interactive\Sportz_Interactive\Sportz_Interactive\obj\Debug\netcoreapp3.1\Sportz_Interactive.genruntimeconfig.cache
